@@ -1,0 +1,74 @@
+
+body{
+    background-color: black;
+    font-family: 'Handlee', cursive;
+}
+
+#postcard{
+    background-color: white;
+    width: 526px;
+    height: 375px;
+    margin: 15% 30%
+}
+
+.arriba{
+    height: 70px;
+    padding-top: 10px;
+    position: relative;
+}
+
+#titulodelproyecto{
+    padding-left: 10px;
+    position: absolute;
+}
+
+#imagenlogo{
+    padding-right: 10px;
+    float: right;
+}
+
+#izquierdatexto{
+    float: left;
+    padding-top: 15px;
+    width: 50%;
+}
+
+p.textoinicia{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 5px;
+    padding-left: 10px;
+}
+
+#derechaformulario{
+    text-align: right;
+    width: 45%;
+    float: right;
+    padding-right: 4%;
+}
+
+.formularioinicia{
+    width: 232px;
+    margin-top: 5px;
+    color: gray;
+    font-family : 'Handlee', cursive;
+    font-size: 20px;
+    border-width: 1px;
+    border-style: hidden hidden solid hidden;
+}
+
+#abajo{
+    clear: both;
+}
+
+.botonabajo{
+    width: 32%;
+    margin-left: 35%;
+    font-family : 'Handlee', cursive;
+    font-size: 18px;
+    color: black;
+    background-color: lightgray;
+}
+
+
+
